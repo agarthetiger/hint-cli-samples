@@ -15,5 +15,6 @@
 
 # disk
 
+* `du -sh * | sort -rh` List current directory in size order with human-readable sizes
 * `diskutil list` List disks for mounting and unmounting on MacOS
 * `diskutil unmountDisk disc2` Unmount microSD card from USB adapter
